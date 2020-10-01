@@ -1,3 +1,3 @@
 Oral exam
 
-This is the line added in the local repository. 
+This is the line added to both of the repositories. 
